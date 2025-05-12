@@ -1,16 +1,7 @@
-# pretium
+This is the Pretium Finance App UI.
+I have used go_router package for navigation
+I have also used flutter riverpod (A state Management solution) for managing appwide state.
+I have organized my folder in clean architecture, in order to have better code organization, and offer a good seoaration of concerns.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: I saw the link very late, like 7 hours after being posted, but I did as fast as i could.
+Find more details on me via my website: Willyngugi.com
